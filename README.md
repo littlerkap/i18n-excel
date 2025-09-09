@@ -64,7 +64,7 @@ To convert your English and Arabic JSON files to an Excel file, follow these ste
 
 | Key                         | en                    | ar           |
 | --------------------------- | --------------------- | ------------ |
-| app.title                   | Audit Platform        | منصة التدقيق |
+| app.title                   | App title             | عنوان التطبيق|
 | textEditor.enterDescription | Enter the description | أدخل الوصف   |
 | textEditor.headings.h1      | Heading 1             | العنوان 1    |
 | textEditor.headings.h2      | Heading 2             | العنوان 2    |
@@ -90,7 +90,7 @@ To convert an Excel file back into JSON files, follow these steps:
 ```json
 {
   "app": {
-    "title": "Audit Platform"
+    "title": "App title"
   },
   "textEditor": {
     "enterDescription": "Enter the description",
@@ -109,7 +109,7 @@ To convert an Excel file back into JSON files, follow these steps:
 ```json
 {
   "app": {
-    "title": "منصة التدقيق"
+    "title": "عنوان التطبيق"
   },
   "textEditor": {
     "enterDescription": "أدخل الوصف",
