@@ -1,0 +1,24 @@
+{
+    "name": "i18n-excel",
+    "version": "1.0.0",
+    "description": "A Node.js project for handling i18n with Excel files",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"No tests specified\" && exit 0"
+    },
+    "keywords": [
+        "i18n",
+        "excel",
+        "localization",
+        "nodejs"
+    ],
+    "author": "Rahul Kapuriya",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "fs": "^0.0.1-security",
+        "jsonfile": "^6.1.0",
+        "xlsx": "^0.18.5"
+    }
+}
